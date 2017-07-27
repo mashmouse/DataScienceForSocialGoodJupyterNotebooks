@@ -1,38 +1,38 @@
-numSibs,evenOdd,age,favDigit,leastFavDigit,bigSmall,numBeds,favColor,firstFloorRooms,basement,secondFloor,parakeets,wakeup,bedtime,numPets,legLength,wingSpan,weight,youngerFamMemb,sizeFam,sizeSibs,famWithoutPets,likesIceCream,glasses,,,
-1,Other,12,3,0,Bigger,3,blue,6,Yes,2,No,7:30,None,1,30,60,75,3,4,0,4,4,3,,,
-3,Other,13,1,4,Bigger,10,purple,4,maybe,2,Yes,7:30,20:00,2,0,58,90,2,6,3,8,8,5,,,
-5,Odd,14,3,8,Smaller,9,Purple,7,Yes,2,No,7:30,21:50,1,30,54,100,6,7,4,8,8,4,,,
-5,Both,11,8,0,Smaller,8,Blue,7,Yes,2,No,6:30,22:30,1,16,61,139,6,8,4,9,8,4,,,
-2,Even,12,9,0,Bigger,6,blue,3,Yes,1,Yes,7:00,22:00,5,36,60,130,4,5,2,5,5,1,,,
-1,Odd,16,7,5,Bigger,4,Green,10,Yes,1,No,7:00,23:00,2,30,72,125,5,3,3,5,3,3,,,
-3,Odd,13,1,3,Bigger,7,Orange,7,Yes,1,No,7:00,23:10,1,27,33,130,0,6,3,7,6,2,,,
-5,Odd,11,7,0,Bigger,5,Blue,2,Yes,2,No,6:00,21:20,4,0,0,0,2,4,0,6,6,4,,,
-3,Even,12,8,0,Bigger,5,black,6,Yes,2,No,6:00,21:00,10,24,63,125,4,6,2,6,6,3,,,
-3,Both,10,5,3,Bigger,4,Pink,2,Yes,2,No,5:30,23:33,1,0,0,94,3,7,1,5,5,3,,,
-3,Even,14,4,1,Bigger,6,blue,6,Yes,1,No,7:30,22:30,3,36,63,125,3,5,3,9,6,3,,,
-1,Even,11,2,5,Smaller,3,lavender,4,Yes,2,No,6:00,21:00,1,22,22,60,4,3,0,5,4,4,,,
-1,Odd,11,6,8,Bigger,3,green,5,Yes,1,No,7:30,22:30,2,30,36,82,0,3,0,4,4,10,,,
-1,Even,12,6,0,Bigger,5,orange,7,Yes,1,No,6:30,0:00,4,24,42,74,4,3,1,5,5,4,,,
-4,Both,14,6,0,Smaller,3,Blue,6,No,1,No,6:00,23:30,1,48,0,120,1,0,1,4,3,5,,,
-0,Odd,12,5,7,Smaller,4,Red,4,Yes,1,No,7:30,2:30,1,0,0,75,2,2,0,2,3,1,,,
-1,Even,14,2,9,Smaller,6,Blue,4,Yes,2,No,6:30,1:24,2,36,48,100,4,3,2,6,4,3,,,
-1,Both,11,0,0,Bigger,4, blue,6,Yes,1,No,6:00,22:00,1,36,72,114,4,4,1,5,10,10,,,
-3,Odd,12,7,3,Smaller,6,white,6,Yes,1,No,7:30,23:00,1,36.25,67,145,6,6,3,6,6,3,,,
-1,Even,14,5,7,Smaller,4,Debatable,5,Yes,2,No,6:30,20:15,4,36,55,0,4,4,1,8,4,4,,,
-1,Odd,12,1,6,Bigger,3,Black,2,Yes,2,No,6:00,21:00,1,24,48,115,2,2,2,3,5,1,,,
-1,Odd,11,4,0,Bigger,3,blue,4,Yes,2,No,6:30,21:30,2,30,60,90,0,3,3,6,3,2,,,
-4,Other,13,0,5,Smaller,5,neutal,6,Yes,2,No,7:30,22:07,5,34,0,186.6,6,10,3,10,4,4,,,
-3,Even,11,4,0,Bigger,8,teal,9,Yes,2,No,7:00,22:30,10,30,4,73,10,5,0,6,6,4,,,
-1,Odd,11,3,9,Smaller,4,green,4,Yes,1,No,7:00,21:00,4,42,70,81,3,4,0,8,8,4,,,
-5,Odd,13,7,2,Bigger,5,YELLOW WOOO,1,Yes,2,No,6:00,1:00,4,0,0,0,3,7,1,7,6,5,,,
-4,Even,15,7,4,Smaller,8,blue,5,Yes,2,No,8:00,1:20,1,36,24,58,6,7,3,8,7,1,,,
-1,Even,11,7,1,Bigger,5,red,6,Yes,1,No,6:00,0:00,3,24,36,80,2,2,0,3,3,1,,,
-2,Odd,12,4,6,Bigger,4,red,6,Yes,2,No,7:00,22:30,10,33,24,125,3,4,2,5,4,2,,,
-1,Even,12,6,5,Smaller,3,Blue,6,Yes,2,No,7:30,22:30,2,27,54,75,5,3,2,5,3,2,,,
-1,Even,10,6,9,Smaller,4,turqoise,3,Yes,2,No,6:30,19:30,1,48,36,75,1,2,1,2,4,1,,,
-3,Odd,11,7,0,Smaller,3,burgendy ,5,Yes,2,No,7:00,21:30,1,0,60,55,4,8,8,9,8,2,,,
-4,Other,13,2,4,Bigger,7,cerulean,6,Yes,2,No,7:30,21:00,10,36,57,0,5,6,10,10,6,6,,,
-1,Even,11,0,9,Smaller,3,orangeish redish pinkish greenish blueish lavender,10,Yes,2,No,4:30,0:00,4,0,56,86,2,4,1,4,4,4,,,
-3,Even,11,1,9,Bigger,4,blue,7,Yes,1,No,7:00,20:00,3,33,60,98,4,4,2,6,6,3,,,
-7,Odd,13,3,5,Bigger,6,blue,6,Yes,2,No,7:30,0:00,2,0,63,96.5,6,7,3,7,6,5,,,
-2,Even,12,2,7,Smaller,5,orange,10,Yes,1,No,8:00,21,1,24,42,87,4,5,0,5,5,5,,,
+numSibs,evenOdd,age,favDigit,leastFavDigit,bigSmall,numBeds,favColor,firstFloorRooms,basement,secondFloor,parakeets,wakeup,bedtime,numPets,legLength,wingSpan,weight,youngerFamMemb,sizeFam,sizeSibs,famWithoutPets,likesIceCream,glasses,
+1,Other,12,3,0,Bigger,3,blue,6,Yes,2,No,7.5,0,1,30,60,75,3,4,0,4,4,3,0
+3,Other,13,1,4,Bigger,10,purple,4,maybe,2,Yes,7.5,20,2,0,58,90,2,6,3,8,8,5,20
+5,Odd,14,3,8,Smaller,9,Purple,7,Yes,2,No,7.5,21,1,30,54,100,6,7,4,8,8,4,21
+5,Both,11,8,0,Smaller,8,Blue,7,Yes,2,No,6.5,22.5,1,16,61,139,6,8,4,9,8,4,22.5
+2,Even,12,9,0,Bigger,6,blue,3,Yes,1,Yes,7,22,5,36,60,130,4,5,2,5,5,1,22
+1,Odd,16,7,5,Bigger,4,Green,10,Yes,1,No,7,23,2,30,72,125,5,3,3,5,3,3,23
+3,Odd,13,1,3,Bigger,7,Orange,7,Yes,1,No,7,23,1,27,33,130,0,6,3,7,6,2,23
+5,Odd,11,7,0,Bigger,5,Blue,2,Yes,2,No,6,21,4,0,0,0,2,4,0,6,6,4,21
+3,Even,12,8,0,Bigger,5,black,6,Yes,2,No,6,21,10,24,63,125,4,6,2,6,6,3,21
+3,Both,10,5,3,Bigger,4,Pink,2,Yes,2,No,5.5,23,1,0,0,94,3,7,1,5,5,3,23
+3,Even,14,4,1,Bigger,6,blue,6,Yes,1,No,7.5,22.5,3,36,63,125,3,5,3,9,6,3,22.5
+1,Even,11,2,5,Smaller,3,lavender,4,Yes,2,No,6,21,1,22,22,60,4,3,0,5,4,4,21
+1,Odd,11,6,8,Bigger,3,green,5,Yes,1,No,7.5,22.5,2,30,36,82,0,3,0,4,4,10,22.5
+1,Even,12,6,0,Bigger,5,orange,7,Yes,1,No,6.5,0,4,24,42,74,4,3,1,5,5,4,0
+4,Both,14,6,0,Smaller,3,Blue,6,No,1,No,6,23.5,1,48,0,120,1,0,1,4,3,5,23.5
+0,Odd,12,5,7,Smaller,4,Red,4,Yes,1,No,7.5,2.5,1,0,0,75,2,2,0,2,3,1,2.5
+1,Even,14,2,9,Smaller,6,Blue,4,Yes,2,No,6.5,1.5,2,36,48,100,4,3,2,6,4,3,1.5
+1,Both,11,0,0,Bigger,4, blue,6,Yes,1,No,6,22,1,36,72,114,4,4,1,5,10,10,22
+3,Odd,12,7,3,Smaller,6,white,6,Yes,1,No,7.5,23,1,36.25,67,145,6,6,3,6,6,3,23
+1,Even,14,5,7,Smaller,4,Debatable,5,Yes,2,No,6.5,20,4,36,55,0,4,4,1,8,4,4,20
+1,Odd,12,1,6,Bigger,3,Black,2,Yes,2,No,6,21,1,24,48,115,2,2,2,3,5,1,21
+1,Odd,11,4,0,Bigger,3,blue,4,Yes,2,No,6.5,21.5,2,30,60,90,0,3,3,6,3,2,21.5
+4,Other,13,0,5,Smaller,5,neutal,6,Yes,2,No,7.5,22,5,34,0,186.6,6,10,3,10,4,4,22
+3,Even,11,4,0,Bigger,8,teal,9,Yes,2,No,7,22.5,10,30,4,73,10,5,0,6,6,4,22.5
+1,Odd,11,3,9,Smaller,4,green,4,Yes,1,No,7,21,4,42,70,81,3,4,0,8,8,4,21
+5,Odd,13,7,2,Bigger,5,YELLOW WOOO,1,Yes,2,No,6,1,4,0,0,0,3,7,1,7,6,5,1
+4,Even,15,7,4,Smaller,8,blue,5,Yes,2,No,8,1.5,1,36,24,58,6,7,3,8,7,1,1.5
+1,Even,11,7,1,Bigger,5,red,6,Yes,1,No,6,0,3,24,36,80,2,2,0,3,3,1,0
+2,Odd,12,4,6,Bigger,4,red,6,Yes,2,No,7,22.5,10,33,24,125,3,4,2,5,4,2,22.5
+1,Even,12,6,5,Smaller,3,Blue,6,Yes,2,No,7.5,22.5,2,27,54,75,5,3,2,5,3,2,22.5
+1,Even,10,6,9,Smaller,4,turqoise,3,Yes,2,No,6.5,19.5,1,48,36,75,1,2,1,2,4,1,19.5
+3,Odd,11,7,0,Smaller,3,burgendy ,5,Yes,2,No,7,21.5,1,0,60,55,4,8,8,9,8,2,21.5
+4,Other,13,2,4,Bigger,7,cerulean,6,Yes,2,No,7.5,21,10,36,57,0,5,6,10,10,6,6,21
+1,Even,11,0,9,Smaller,3,orangeish redish pinkish greenish blueish lavender,10,Yes,2,No,4.5,0,4,0,56,86,2,4,1,4,4,4,0
+3,Even,11,1,9,Bigger,4,blue,7,Yes,1,No,7,20,3,33,60,98,4,4,2,6,6,3,20
+7,Odd,13,3,5,Bigger,6,blue,6,Yes,2,No,7.5,0,2,0,63,96.5,6,7,3,7,6,5,0
+2,Even,12,2,7,Smaller,5,orange,10,Yes,1,No,8,21,1,24,42,87,4,5,0,5,5,5,21
