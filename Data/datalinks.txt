@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNoteb
 https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/Gross_Enrollment_Ratio_Education.csv
 https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/MATERIALS_MUNICIPAL_WASTE_STREAM_1960_TO_2014.csv
 https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/RuariJack.csv
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/KaetlynEmilyVijayAlternateVideoGameSales.csv
