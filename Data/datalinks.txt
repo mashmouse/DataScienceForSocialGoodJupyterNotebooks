@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/AutumnKhaidencey.csv
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/Devin.csv
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/EliandAshtonPaperWaste.csv
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/EzraTyler.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/FOOD_WASTE_28072017014005301.csv
+https://raw.githubusercontent.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/master/Data/GrossForestLoss.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/JosieKaraAirPollution.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/KaetlynEmilyVijayMinecraftSchoolProject.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/KalliJessica.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/MonarchDataCalifornia.csv
+https://github.com/mashmouse/DataScienceForSocialGoodJupyterNotebooks/blob/master/Data/UNRainforestDeforestation.csv
